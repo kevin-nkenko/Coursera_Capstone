@@ -8,8 +8,8 @@ To put in a nutshell, people may be interested in the type of activities they ca
 
 Furthermore,as far as tourism is concerned, weather is also an important subject. The impact of weather on tourism may depends on various parameters such as precipitation, sun, temperature, most common day condition. We must also take into account that, the weather preference can differ with the kinds of activities that a tourist may pursue. Y
 ou know what? Nevermind! To make it simple and less theoretical, Let's just assume that a blue sky is most appreciated than a grey one.
-A most spread idea is that London has a very bad weather and it rains pretty much there. Is it only a 'cliché'?
-Anyway, for people who want to enjoy outdoors under the sun, this might not be a positive intel.
+A most spread idea is that London has a very bad weather and it rains pretty much there. 
+Anyway, for people who want to enjoy outdoors under the sun, this might not be a positive intel. Is it only a 'cliché'?
 
 ## What are we going to discuss ?
 
